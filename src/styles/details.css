@@ -1,0 +1,13 @@
+
+
+body {
+background-color: lightcoral;
+}
+
+section {
+font-size: 25px;
+}
+.serviceForm {
+    display: flex;
+    flex-direction: column;
+}
